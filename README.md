@@ -60,3 +60,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
+
+
+## Тестовые артефакты
+
+- [Техники тест-дизайна](https://github.com/alena-parshina/design)
+
+- [Тестовая документация](https://github.com/alena-parshina/docs)
+
+- [Тестирование веб-приложений](https://github.com/alena-parshina/web/blob/main/README.md)
+
+- [Тестирование API](https://github.com/alena-parshina/API/blob/main/README.md)
+
+- [Работа с базами данных](https://github.com/alena-parshina/Database/blob/main/README.md)
+
+-  [Тестирование мобильных приложений](https://github.com/alena-parshina/Mobile/blob/main/README.md)
+
+
+- [Работа с git и bash](https://github.com/alena-parshina/Git_bash/blob/main/README.md)

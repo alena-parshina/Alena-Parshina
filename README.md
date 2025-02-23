@@ -14,6 +14,10 @@
   </a>
 </div>
 
+## 📄 My CV
+
+- [ Резюме на русском (PDF)](https://github.com/user-attachments/files/18934003/_._._QA.pdf)
+- [ Resume in English (PDF)](https://github.com/user-attachments/files/18934006/Resume_Alena_Parshina_QA.pdf)
 
 
 
